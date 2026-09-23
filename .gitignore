@@ -14,3 +14,9 @@ checkpoints/
 *.pt
 *.pth
 返容課後/
+
+data/
+checkpoints/
+*.pt
+*.pth
+返容課後/
